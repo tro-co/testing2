@@ -1,0 +1,5 @@
+Procedure
+1. Crossover Health provides in-person security awareness training upon hire, prior to beginning work, during new employee orientation. Human Resources (HR) maintains a log of attendees, date of training, and content of training for seven years.
+2. Initial training includes use of personal devices at Crossover Health. Devices not issued by Crossover Health are not to access PHI. Employees whose personal devices have camera, video or recording capability are restricted from using those functions anywhere in the building or on company property at any time unless authorized in advance by management.
+3. Security retraining occurs yearly via compliance management system. The Privacy Officer assures completion by all workforce members. Documentation of training is maintained seven years.
+4. Security and privacy training content is reviewed yearly by the Security Officer, Privacy Officer, and HR. Any mid-year updates to policies may be communicated to HR for training content change by the Security or Privacy Officer.
